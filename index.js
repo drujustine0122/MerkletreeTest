@@ -18,14 +18,6 @@
 // for a random leaf and then verifies that the proof is correct.
 // The size of the tree to build is passed as a CLI argument.
 
-// EXERCISE:
-
-// Your goal in this exercise is two-fold:
-// 1. Imagine you receive this code in a Github Pull-Request submitted by one of your team mates.
-// Write a code review for it with comments as you see fit.
-//
-// 2. Improve the code if you are able. Ensure it builds and runs.
-// 3. Run the test cases you deem necessary to convince yourself the code is working properly.
 
 
 const { createHash } = require('crypto');
